@@ -1,0 +1,100 @@
+[
+  {
+    "qa": [
+      {
+        "question": "When did Caroline go to the LGBTQ support group?",
+        "answer": "7 May 2023",
+        "evidence": ["D1:3"],
+        "category": 2
+      },
+      {
+        "question": "When did Melanie paint a sunrise?",
+        "answer": 2022,
+        "evidence": ["D1:12"],
+        "category": 2
+      },
+      {
+        "question": "What fields would Caroline be likely to pursue in her educaton?",
+        "answer": "Psychology, counseling certification",
+        "evidence": ["D1:9", "D1:11"],
+        "category": 3
+      },
+      {
+        "question": "What did Caroline research?",
+        "answer": "Adoption agencies",
+        "evidence": ["D2:8"],
+        "category": 1
+      },
+      {
+        "question": "What is Caroline's identity?",
+        "answer": "Transgender woman",
+        "evidence": ["D1:5"],
+        "category": 1
+      },
+      {
+        "question": "When did Melanie run a charity race?",
+        "answer": "The sunday before 25 May 2023",
+        "evidence": ["D2:1"],
+        "category": 2
+      },
+      {
+        "question": "When is Melanie planning on going camping?",
+        "answer": "June 2023",
+        "evidence": ["D2:7"],
+        "category": 2
+      },
+      {
+        "question": "What is Caroline's relationship status?",
+        "answer": "Single",
+        "evidence": ["D3:13", "D2:14"],
+        "category": 1
+      },
+      {
+        "question": "When did Caroline give a speech at a school?",
+        "answer": "The week before 9 June 2023",
+        "evidence": ["D3:1"],
+        "category": 2
+      },
+      {
+        "question": "When did Caroline meet up with her friends, family, and mentors?",
+        "answer": "The week before 9 June 2023",
+        "evidence": ["D3:11"],
+        "category": 2
+      }
+    ],
+    "session_summary": {
+      "session_1_summary": "Calvin and Dave met at 11:53 am on 23 March, 2023. Dave attended a car event with classic cars, while Calvin shared his big life change by getting a new mansion and planning a trip to Japan to learn about the culture. Calvin will stay there for a few months before heading to Boston. Dave recommended a calming park and offered further recommendations for Calvin's trip, ending with Calvin thanking him and promising to stay in touch.",
+      "session_2_summary": "Calvin told Dave about his new luxury car at 4:45 pm on 26 March, 2023, expressing excitement and gratitude. Dave congratulated Calvin and admired the car. Calvin shared a picture and mentioned it was his first luxury car, feeling like it was well-deserved after hard work. Dave then talked about a music festival he attended in Boston and his favorite band, Aerosmith. They discussed the experience of seeing favorite artists perform. Calvin mentioned working on new music and collaborations. Dave showed interest and wished Calvin well. They exchanged goodbyes, ending their conversation.",
+      "session_3_summary": "Calvin and Dave spoke at 4:15 pm on 20 April, 2023. Calvin shared about attending a music festival in Tokyo where he met industry professionals and received advice. He dreams of touring the world and reaching a global audience with his music. Dave plans to show Calvin around Boston, known for its vibrant music scene. Dave also mentioned his passion for classic cars. Calvin looks forward to exploring Boston's food scene with Dave. They both expressed excitement about the upcoming visit.",
+      "session_4_summary": "Dave shared with Calvin at 6:24 pm on 1 May, 2023, that he fulfilled his dream of opening a car maintenance shop. Calvin congratulated him, acknowledging his hard work and ambition. Dave expressed his love for classic cars and showed Calvin a photo of an engine he restored. Calvin admired it and they discussed the satisfaction of seeing hard work pay off. They emphasized the importance of pursuing dreams and staying motivated. Dave invited Calvin to visit his shop, where he works on various cars, and they discussed the fulfillment of working on cars. Calvin complimented Dave on his work and shared a diamond pendant necklace received as a gift, symbolizing their shared dedication to their passions. They encouraged each other to stay motivated and keep pursuing their dreams.",
+      "session_5_summary": "At 1:16 pm on 3 May 2023, Dave informed Calvin that he was teaming up with a local garage, showcasing a challenging project they were working on. Calvin congratulated Dave on his new venture and praised his progress since their last conversation. Dave expressed his love for the new job, sharing his excitement about working with mechanics and his dream to build a custom car. Calvin admired Dave's dedication and encouraged him to relax amidst the hard work. They exchanged relaxation hobbies, with Dave enjoying walks and Calvin finding solace in long drives. Calvin mentioned a creative block in music, seeking advice from Dave, who suggested immersing in favorite activities for inspiration. Calvin appreciated the tip and expressed gratitude for Dave's support, promising to stay in touch. They bid farewell, with Dave offering ongoing assistance.",
+      "session_6_summary": "Calvin and Dave caught up at 11:50 am on 16 May, 2023. Calvin shared about a recent flood incident in his place but managed to save his music gear. Dave offered support, and Calvin showed his creative haven where he makes music. Dave mentioned opening his car shop and Calvin congratulated him. Calvin mentioned an upcoming performance in Tokyo, and Dave wished him luck. Calvin shared a stunning night skyline photo from Tokyo, which Dave admired, expressing a desire to visit. Calvin encouraged Dave to visit, and Dave expressed interest in adding Tokyo to his list of places to visit.",
+      "session_7_summary": "Calvin and Dave caught up at 6:06 pm on 31 May, 2023. Calvin shared his experience touring with Frank Ocean, finding it exhilarating. Dave showed a car he fixed, finding it therapeutic. They discussed how working on cars gives them a sense of accomplishment and purpose. Both feel empowered by transforming things. Calvin is excited about the upcoming tour in Boston. Dave supports Calvin's music journey and looks forward to hearing about the Boston music scene when Calvin returns.",
+      "session_8_summary": "Calvin and Dave chat at 2:31 pm on 9 June, 2023. Calvin updates Dave about his album progress with the creative team and expresses excitement. Dave shares a picture of a studio, and they discuss enjoying nature in Boston parks. Dave mentions exploring parks and Calvin looks forward to experiencing them. They talk about hiking, with Dave planning a mountain trip. Dave will share pictures with Calvin later. Calvin wishes Dave safe travels and they say goodbye.",
+      "session_9_summary": "At 3:15 pm on 21 June 2023, Calvin told Dave about his recent car accident but mentioned that nobody was hurt. Dealing with insurance and repairs was time-consuming. Dave inquired about any insurance issues experienced. Calvin shared that after a week, everything was sorted out. The mechanic, pictured, was skilled, making Calvin confident about the repair. Dave praised the expert fixing the car. Calvin expressed excitement about driving again. They discussed a beautiful view from Japan, which Calvin plans to visit after a tour. Dave shared joining a rock band, playing guitar. They agreed to keep in touch before ending the conversation.",
+      "session_10_summary": "Dave checked in with Calvin about his car post-crash at 7:56 pm on 7 July 2023. Calvin confirmed the car was fixed and going strong. They discussed regular walks in the park and admired each other's photos of scenic views. Calvin shared plans about exploring Japan for its food and culture, mentioning music collaborations he was working on. Dave expressed interest in visiting Japan for its vibes and tech. They discussed collaborating with artists and creating unique music. Calvin appreciated the support and concluded the chat, with Dave reminding him to not overwork."
+    },
+    "observation": {
+      "session_1_observation": {
+        "Calvin": [
+          ["Calvin recently had a big life change and now has a new mansion.", "D1:3"],
+          ["Calvin is excited to learn about Japanese culture and is heading to Japan next month.", "D1:5"],
+          ["Calvin has never been to Japan before but is fascinated by the traditions and culture.", "D1:7"],
+          ["Calvin's agent found him an awesome place to stay in Japan.", "D1:11"],
+          [
+            "Calvin plans to explore the city, try different local cuisines, and collaborate with musicians during his trip to Japan.",
+            "D1:13"
+          ],
+          ["Calvin will be in Japan for a few months before heading to Boston.", "D1:15"]
+        ],
+        "Dave": [
+          [
+            "Dave attended an awesome car event recently where he saw many classic cars and spoke with the owners.",
+            "D1:2"
+          ],
+          ["Dave spends lots of time at a beautiful calming park.", "D1:16"]
+        ]
+      }
+    }
+  }
+]
